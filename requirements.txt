@@ -1,0 +1,13 @@
+paddlepaddle == 2.1.0
+json
+matplotlib
+tqdm
+opencv-python
+wfdb
+numpy
+time
+random
+logging
+
+
+
